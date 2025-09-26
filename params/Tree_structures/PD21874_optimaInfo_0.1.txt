@@ -1,0 +1,4 @@
+PD21874a2	PD21874d2	estimated.no.of.mutations	no.of.mutations.assigned	Name	Certainty	Terminal
+0.00098427	0.980397882	2497.01	2495	T>B2	Certain	Yes
+1.01140211	0.001830358	2725.217143	2728	T>B1	Certain	Yes
+0.979091471	0.9954383	3147.772857	3147	T	Certain	No

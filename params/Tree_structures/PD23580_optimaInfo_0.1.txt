@@ -1,0 +1,4 @@
+PD23580a	PD23580d	estimated.no.of.mutations	no.of.mutations.assigned	Name	Certainty	Terminal
+0.000412771	0.946250944	1480.048095	1475	T>B2	Certain	Yes
+0.906837695	0.001014112	1015.398095	1022	T>B1	Certain	Yes
+1.003029981	0.974752822	4077.55381	4076	T	Certain	No

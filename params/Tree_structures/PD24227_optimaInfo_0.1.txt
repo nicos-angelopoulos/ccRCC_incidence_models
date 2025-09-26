@@ -1,0 +1,3 @@
+PD24227a	PD24227c	PD24227d	estimated.no.of.mutations	no.of.mutations.assigned	Name	Certainty	Terminal
+0.033595878	0.874626539	0	482.0671429	482	T>B1	Certain	Yes
+1.008841716	0.974534255	0.728113397	6410.932857	6411	T	Certain	No
