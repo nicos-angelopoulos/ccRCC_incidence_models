@@ -13,7 +13,7 @@ To reproduce the knitr generated html file that containes all the code and plots
 % 
   R --no-init-file --no-restore-data
 > 
-   library("knitr");  knit("Chronology_supp_material.Rmd")
+   library("knitr");  knit("Chronology_supp_material.rmd")
 >
   library("markdown"); markdownToHTML("Chronology_supp_material.md","Chronology_supp_material.html")
 
